@@ -15,4 +15,8 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
