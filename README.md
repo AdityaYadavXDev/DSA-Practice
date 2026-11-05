@@ -7,6 +7,7 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
