@@ -7,11 +7,13 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
 ## Sorting
 |  |
@@ -21,6 +23,7 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
