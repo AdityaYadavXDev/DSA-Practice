@@ -7,6 +7,7 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -37,4 +38,12 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
