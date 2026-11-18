@@ -12,16 +12,19 @@ DSA Practice code is here
 | [0152-maximum-product-subarray](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
+| [0905-sort-array-by-parity](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0905-sort-array-by-parity](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
