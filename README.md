@@ -42,6 +42,7 @@ DSA Practice code is here
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -53,4 +54,8 @@ DSA Practice code is here
 | [0053-maximum-subarray](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
