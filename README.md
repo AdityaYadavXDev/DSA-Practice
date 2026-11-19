@@ -31,6 +31,7 @@ DSA Practice code is here
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ DSA Practice code is here
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
