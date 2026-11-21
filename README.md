@@ -36,6 +36,7 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -60,4 +61,16 @@ DSA Practice code is here
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
