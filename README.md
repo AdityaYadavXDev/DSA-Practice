@@ -12,6 +12,7 @@ DSA Practice code is here
 | [0152-maximum-product-subarray](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
@@ -26,6 +27,7 @@ DSA Practice code is here
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
@@ -39,6 +41,7 @@ DSA Practice code is here
 | ------- |
 | [0169-majority-element](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
