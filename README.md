@@ -6,6 +6,7 @@ DSA Practice code is here
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ DSA Practice code is here
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0217-contains-duplicate) |
