@@ -16,6 +16,7 @@ DSA Practice code is here
 | [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
@@ -24,6 +25,7 @@ DSA Practice code is here
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -31,6 +33,7 @@ DSA Practice code is here
 | [0016-3sum-closest](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
@@ -48,6 +51,7 @@ DSA Practice code is here
 | [0202-happy-number](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -56,6 +60,7 @@ DSA Practice code is here
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AdityaYadavXDev/DSA-Practice/tree/master/0704-binary-search) |
